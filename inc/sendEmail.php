@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'nithinbijubiss@gmail.com';
+$siteOwnersEmail = 'marketo.designteam@gmail.com';
 
 
 if($_POST) {
